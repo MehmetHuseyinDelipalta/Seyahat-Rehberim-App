@@ -1,3 +1,4 @@
+// Developer => Mehmet Hüseyin Delipalta - coDeveloperman
 package com.example.mhd.seyehatrehberim;
 
 import android.content.Intent;
