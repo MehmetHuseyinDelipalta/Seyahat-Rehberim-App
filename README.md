@@ -1,6 +1,6 @@
-# SeyehatRehberim
+# SeyahatRehberim
 MEHMET HÜSEYİN DELİPALTA
 
-SEYEHAT REHBERİM
+SEYAHAT REHBERİM
 
 İŞLETİM SİSTEMLERİ PROJE ÖDEVİ
