@@ -1,4 +1,4 @@
-# SeyahatRehberim
+# Seyahat Rehberim App
 MEHMET HÜSEYİN DELİPALTA
 
 SEYAHAT REHBERİM
